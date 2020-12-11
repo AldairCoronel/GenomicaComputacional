@@ -21,7 +21,11 @@ SOLiD/Life Technologies | 50 | 1x10^9 | 14 días | 0.13 | 0.1 | Ligation
 Retrovolocity/BGI | 50 | 1x10^9 | 14 días | 0.01 | 0.01 | Nanoball/ligation 
 Ion Proton/Life Technologies | 200 | 6x10^7 | 2-5 h | 1 | 1.7 | Proton detection 
 Ion PGM/Life Technologies | 200 | 5x10^6 | 2-5 h | 1 | 1.7 | Proton detection 
-Tercera generación | 
+Tercera generación |  |  |  |  |  |
+SMRT/Pac Bio/1 Gb | >10,000 | 1×106 | 1–2 h | 2 | 12.9 | Real-time SMS
+Heliscope/Helicos/25 Gb | 35 | 7×109 | 8 days | 0.01 | 0.2 | Real-time SMS
+Nanopore/Oxford Nanopore Technologies/1 Gb | >5000 | 6×104 | 48/72 h | <1 | 34 | Real-time SMS
+Electron microscopy/ZS | 7200 | | 14 h | <0.01 | | Real-time SMS
 # Parte II.
 
 # Parte III.
