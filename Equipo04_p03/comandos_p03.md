@@ -118,8 +118,13 @@ the smallest known genome (0.58 Mb)
 # Parte IV.
 
 **Respuesta 1:**
+#### Saccharomyces Cerevisiae
+S.cerevisiae es un organismo eucariota, particularmente  una levadura  unicelular. Su genoma es de aproximadamente 12 Mb, organizado en 16 cromosomas.Como organismo modelo, S. cerevisiae, tienen las siguientes características:  Es fácil de obtener en  grandes cantidades,  y por otro lado,  posee un ciclo de vida que al incluir una fase sexual,  permite la realización de estudios que proveen información en el campo de la genética. Además, es muy importante en la industria alimenticia ya que posee la capacidad de llevar a cabo la fermentación alcohólica.
 
 **Respuesta 2:**
+
+La tecnología de secuenciación empleada para la obtención del genoma completo fue el método de Sanger, perteneciente a la primera generación. Básicamente, consiste en obtener 
+muchas copias de un fragmento blanco de DNA. Los elementos base para llevar a cabo este método son: DNA polimerasa, un cebador, trinucleótidos, la muestra de DNA que se quiere secuenciar y otros elementos especiales que reciben el nombre de “terminadores de la cadena”, lo cuales están marcados con un fluorocromo de diferente color para cada base. Este método es muy parecido a la técnica de PCR con un cebador, en la cual se van a incorporar los ya mencionados dideoxinucleótidostrifosfato (ddNTPs) marcados con fluorescencia en el extremo 3’ de manera aleatoria. En la reacción, cada fluorocromo se encuentra asociado a un nucleótido en particular , el cual va a emitir una luz con una longitud de onda en específico, de esta manera se van a generar fragmentos de diferentes tamaños los cuales reciben el nombre de amplicones, los cuales van a ser separados en una columna de electroforesis capilar. Cabe destacar que esta emisión de fluorescencia es detectada por la excitación promovida de la luz de un láser, conectado a un software de secuenciación. (Instituto de Biotecnología, s.f)
 
 **Respuesta 3:**
 
@@ -159,3 +164,6 @@ y G es proporcional y corresponde del 20 por ciento.
 ## Referencias
 - Pareek, C.S., Smoczynski, R. & Tretyn, A. Sequencing technologies and genome sequencing. J Appl Genetics 52, 413–435 (2011). https://doi.org/10.1007/s13353-011-0057-x
 - Kchouk, M; Gibrat, J y  Elloumi, M. (2017).Generations of Sequencing Technologies: From First to Next Generation. Biol Med. DOI: 10.4172/0974-8369.1000395
+- Instituto de Biotecnología, UNAM. (s.f) Secuenciación de Ácidos Nucleicos.  Consultado el 11 de Diciembre 2020. Recuperado de: http://oldwww.ibt.unam.mx/computo/pdfs/met/secuenciacion_acidos_nucleicos.pdf
+- Bioinfologics.(2019) W2rap: the WGS (Wheat) Robust Assembly Pipeline. Consultado el 11 de Diciembre 2020. Recuperado de: https://github.com/bioinfologics/w2rap/blob/master/README.md
+
