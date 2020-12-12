@@ -10,8 +10,9 @@
 # Parte I.
 Plataforma/compañia | Longitud de reads | #reads x run | Tiempo | Costo x 10^6 bases | Error (%) | Química 
 --- | --- | --- | --- | --- | --- | ---
-Primera generación |  |  |  |  |  |   
+Primera generación |     
 Sanger/Life technologies | 800 | 1 | 2 h | 2400 | 0.3 | Dideoxy terminator 
+Método de Maxam y Gilbert | 400 - 900 pb | 96 | 2 h | 500 $(0.5 $ x 1 kb) | 0.3 | Secuenciación por degradación química
 Segunda generación | 
 454 GS FLX+/Roche | 700 | 1x10^6 | 24/48 h | 10 | 1 | Pyrosequencing 
 GS Junior/Roche | 500 | 1x10^5 | 18 h | 9 |  | Pyrosequencing 
@@ -31,3 +32,8 @@ Electron microscopy/ZS | 7200 | | 14 h | <0.01 | | Real-time SMS
 # Parte III.
 
 # Parte IV.
+
+
+## Referencias
+- Pareek, C.S., Smoczynski, R. & Tretyn, A. Sequencing technologies and genome sequencing. J Appl Genetics 52, 413–435 (2011). https://doi.org/10.1007/s13353-011-0057-x
+- Kchouk, M; Gibrat, J y  Elloumi, M. (2017).Generations of Sequencing Technologies: From First to Next Generation. Biol Med. DOI: 10.4172/0974-8369.1000395
