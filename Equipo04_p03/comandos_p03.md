@@ -123,7 +123,7 @@ S.cerevisiae es un organismo eucariota, particularmente  una levadura  unicelula
 
 **Respuesta 2:**
 
-La tecnología de secuenciación empleada para la obtención del genoma completo fue el método de Sanger, perteneciente a la primera generación. Básicamente, consiste en obtener 
+La tecnología de secuenciación empleada para la obtención del genoma completo fue el método de Sanger, perteneciente a la primera generación. Básicamente, consiste en obtener
 muchas copias de un fragmento blanco de DNA. Los elementos base para llevar a cabo este método son: DNA polimerasa, un cebador, trinucleótidos, la muestra de DNA que se quiere secuenciar y otros elementos especiales que reciben el nombre de “terminadores de la cadena”, lo cuales están marcados con un fluorocromo de diferente color para cada base. Este método es muy parecido a la técnica de PCR con un cebador, en la cual se van a incorporar los ya mencionados dideoxinucleótidostrifosfato (ddNTPs) marcados con fluorescencia en el extremo 3’ de manera aleatoria. En la reacción, cada fluorocromo se encuentra asociado a un nucleótido en particular , el cual va a emitir una luz con una longitud de onda en específico, de esta manera se van a generar fragmentos de diferentes tamaños los cuales reciben el nombre de amplicones, los cuales van a ser separados en una columna de electroforesis capilar. Cabe destacar que esta emisión de fluorescencia es detectada por la excitación promovida de la luz de un láser, conectado a un software de secuenciación. (Instituto de Biotecnología, s.f)
 
 **Respuesta 3:**
@@ -155,6 +155,8 @@ hasta la base 19, de la base 20 en adelante se observa que la cantidad de A y T
 es muy similar (líneas paralelas) y corresponde al 30 por ciento, mientras que C
 y G es proporcional y corresponde del 20 por ciento.
 
+> cobertura = (1641301*151)/12,156,677 = 20.38
+
 **Respuesta 4:**
 
 **Respuesta 5:**
@@ -166,4 +168,3 @@ y G es proporcional y corresponde del 20 por ciento.
 - Kchouk, M; Gibrat, J y  Elloumi, M. (2017).Generations of Sequencing Technologies: From First to Next Generation. Biol Med. DOI: 10.4172/0974-8369.1000395
 - Instituto de Biotecnología, UNAM. (s.f) Secuenciación de Ácidos Nucleicos.  Consultado el 11 de Diciembre 2020. Recuperado de: http://oldwww.ibt.unam.mx/computo/pdfs/met/secuenciacion_acidos_nucleicos.pdf
 - Bioinfologics.(2019) W2rap: the WGS (Wheat) Robust Assembly Pipeline. Consultado el 11 de Diciembre 2020. Recuperado de: https://github.com/bioinfologics/w2rap/blob/master/README.md
-
