@@ -56,9 +56,23 @@ El promedio de la longitud de las secuencias para ERR486827/salida_1.fa es igual
 
 **Respuesta 1:**
 
+chmod +x fastqc
+
 **Respuesta 2:**
 
+### Comando para poder ejecutar fastqc desde cualquier lado:
+export PATH=$PATH:/home/adrian/Downloads/FastQC/
+
+### Creando el script:
+nano fastqc_run.sh
+chmod +x fastqc_run.sh
+./fastqc_run.sh
+
 **Respuesta 3:**
+
+### Visualizando los HTML:
+firefox ERR486827_1_fastqc.html
+firefox ERR486827_2_fastqc.html
 
 **Respuesta 4:**
 
