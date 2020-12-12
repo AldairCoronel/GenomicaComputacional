@@ -123,6 +123,33 @@ the smallest known genome (0.58 Mb)
 
 **Respuesta 3:**
 
+Después de revisar los archivos con formato html, se obtiene la siguiente información:
+
+El gráfico de *Per base sequence quality* se distingue que:
+En el eje X, se representa las bases de las lecturas y cada lectura tiene 151 bases.
+
+En el Y, se representan las calidades 0-40, distinguiéndose tres zonas:
+<ul>
+<li> Zona verde: 28-40. Corresponden a una muy buena calidad. </li>
+<li> Zona naranja: 20-28. Corresponden a una zona de calidad intermedia.  </li>
+<li> Zona roja: 0-20. Corresponden a una zona de mala calidad. </li>
+</ul>
+
+Se concluye que las calidades asignadas a todas las bases (151) son muy buenas,
+ya que se encuentran en la región verde y los cuartiles que aparecen son
+significativamente pequeños.
+
+El gráfico de *Per sequence quality scores* nos indica que existen aproxidamente
+1.2M lecturas con una calidad entorno a 38 y 39 y ninguna lectura con calidad < a 28
+(ninguna lectura con mala calidad) y por tanto, todas las lecturas caen en la región
+verde de buena calidad. Además, existe un porcentaje significativamente pequeño de
+lecturas con calidades entre 29 a 36.
+
+El gráfico de *Per base sequence content* se observa un comportamiento irregular
+hasta la base 19, de la base 20 en adelante se observa que la cantidad de A y T
+es muy similar (líneas paralelas) y corresponde al 30 por ciento, mientras que C
+y G es proporcional y corresponde del 20 por ciento.
+
 **Respuesta 4:**
 
 **Respuesta 5:**
