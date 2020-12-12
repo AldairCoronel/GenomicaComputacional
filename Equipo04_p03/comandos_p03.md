@@ -77,7 +77,41 @@ Visualizando los HTML:
 
 >firefox ERR486827_2_fastqc.html
 
+Después de revisar los archivos con formato html, se obtiene la siguiente información:
+
+El gráfico de "Per base sequence quality" se distingue que:
+
+<ul>
+<li> En el eje X, se representa las bases de las lecturas y cada lectura tiene 150 bases. </li>
+<li> En el Y, se representan las calidades 0-40, distinguiéndose tres zonas: </li>
+<ul>
+  <li> Zona verde: 28-40. Corresponden a una muy buena calidad. </li>
+  <li> Zona naranja: 20-28. Corresponden a una zona de calidad intermedia. </li>
+  <li> Zona roja: 0-20. Corresponden a una zona de mala calidad. </li>
+</ul>
+</ul>
+Se concluye que las calidades asignadas a todas las bases (150) que son muy buenas,
+ya que se encuentran en la región verde y los cuartiles que aparecen son
+significativamente pequeños.
+
+El gráfico de *Per sequence quality scores* nos indica que existen más de 300K lecturas
+con una calidad entorno a 37 y 38 y ninguna lectura con calidad < a 27 (ninguna lectura
+con mala calidad). Por tanto, todas las lecturas caen en la región verde de buena
+calidad y además existe un porcentaje significativamente pequeño de lecturas con
+calidades entre 30 a 37.
+
+El gráfico de *Per base sequence content* nos indica la proporción de cada una de
+las bases que hay en la secuencia, notándose que la cantidad de A y T es igual
+(líneas paralelas) y corresponde entre el 30 y 40 porciento, mientras que C y G
+es proporcional y corresponde del 10 al 20 porciento.
+
 **Respuesta 4:**
+
+> cobertura = (398824 * 150)/580,000 = 103.14
+
+M. genitalium G37T was selected as the type strain and in 1995, was the first
+Mycoplasma to be whole genome sequenced [5] showing that it had, at the time,
+the smallest known genome (0.58 Mb)
 
 # Parte IV.
 
