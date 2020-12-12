@@ -90,9 +90,11 @@ El gráfico de "Per base sequence quality" se distingue que:
   <li> Zona roja: 0-20. Corresponden a una zona de mala calidad. </li>
 </ul>
 </ul>
+
 Se concluye que las calidades asignadas a todas las bases (150) que son muy buenas,
 ya que se encuentran en la región verde y los cuartiles que aparecen son
 significativamente pequeños.
+
 
 El gráfico de *Per sequence quality scores* nos indica que existen más de 300K lecturas
 con una calidad entorno a 37 y 38 y ninguna lectura con calidad < a 27 (ninguna lectura
